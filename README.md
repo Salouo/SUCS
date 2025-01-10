@@ -1,1 +1,1 @@
-This is a report assinment.
+This is a report assignment.
